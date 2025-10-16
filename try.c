@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (){
-    pritnf("skjhfkhsf");
+    pritnf("haneef");
     return 0;
 }
