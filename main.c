@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main (){
-    pritnf("skjhfkhsf");
+    pritnf("main");
+    pritnf("abdul");
     return 0;
 }
